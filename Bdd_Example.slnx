@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Atm.Domain/Atm.Domain.csproj" Id="92d21220-7fe9-41a0-9fa4-a4e84240ebd2" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Atm.Domain.Tests.Acceptance/Atm.Domain.Tests.Acceptance.csproj" Id="b0f7e7ce-025a-435a-a2c8-e87ce6ea238d" />
+  </Folder>
+</Solution>

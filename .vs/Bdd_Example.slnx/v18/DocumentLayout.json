@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|d:\\programming\\asp .net projects\\bdd_example\\tests\\atm.domain.tests.acceptance\\customhtmlreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|solutionrelative:tests\\atm.domain.tests.acceptance\\customhtmlreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|d:\\programming\\asp .net projects\\bdd_example\\tests\\atm.domain.tests.acceptance\\atmscenario.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|solutionrelative:tests\\atm.domain.tests.acceptance\\atmscenario.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|d:\\programming\\asp .net projects\\bdd_example\\tests\\atm.domain.tests.acceptance\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0F7E7CE-025A-435A-A2C8-E87CE6EA238D}|tests\\Atm.Domain.Tests.Acceptance\\Atm.Domain.Tests.Acceptance.csproj|solutionrelative:tests\\atm.domain.tests.acceptance\\steps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D21220-7FE9-41A0-9FA4-A4E84240EBD2}|src\\Atm.Domain\\Atm.Domain.csproj|d:\\programming\\asp .net projects\\bdd_example\\src\\atm.domain\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D21220-7FE9-41A0-9FA4-A4E84240EBD2}|src\\Atm.Domain\\Atm.Domain.csproj|solutionrelative:src\\atm.domain\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92D21220-7FE9-41A0-9FA4-A4E84240EBD2}|src\\Atm.Domain\\Atm.Domain.csproj|d:\\programming\\asp .net projects\\bdd_example\\src\\atm.domain\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D21220-7FE9-41A0-9FA4-A4E84240EBD2}|src\\Atm.Domain\\Atm.Domain.csproj|solutionrelative:src\\atm.domain\\atm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa9a73a5-b2bf-400b-b57c-58f166ff1c56}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomHtmlReport.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\CustomHtmlReport.cs",
+              "RelativeDocumentMoniker": "tests\\Atm.Domain.Tests.Acceptance\\CustomHtmlReport.cs",
+              "ToolTip": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\CustomHtmlReport.cs",
+              "RelativeToolTip": "tests\\Atm.Domain.Tests.Acceptance\\CustomHtmlReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T20:58:26.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Atm.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\src\\Atm.Domain\\Atm.cs",
+              "RelativeDocumentMoniker": "src\\Atm.Domain\\Atm.cs",
+              "ToolTip": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\src\\Atm.Domain\\Atm.cs",
+              "RelativeToolTip": "src\\Atm.Domain\\Atm.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T18:24:25.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Steps.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\Steps.cs",
+              "RelativeDocumentMoniker": "tests\\Atm.Domain.Tests.Acceptance\\Steps.cs",
+              "ToolTip": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\Steps.cs",
+              "RelativeToolTip": "tests\\Atm.Domain.Tests.Acceptance\\Steps.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAnwDkAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T19:42:14.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Card.cs",
+              "DocumentMoniker": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\src\\Atm.Domain\\Card.cs",
+              "RelativeDocumentMoniker": "src\\Atm.Domain\\Card.cs",
+              "ToolTip": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\src\\Atm.Domain\\Card.cs",
+              "RelativeToolTip": "src\\Atm.Domain\\Card.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-24T19:11:42.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AtmScenario.txt",
+              "DocumentMoniker": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\AtmScenario.txt",
+              "RelativeDocumentMoniker": "tests\\Atm.Domain.Tests.Acceptance\\AtmScenario.txt",
+              "ToolTip": "D:\\Programming\\ASP .NET Projects\\Bdd_Example\\tests\\Atm.Domain.Tests.Acceptance\\AtmScenario.txt",
+              "RelativeToolTip": "tests\\Atm.Domain.Tests.Acceptance\\AtmScenario.txt",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-23T18:16:23.797Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

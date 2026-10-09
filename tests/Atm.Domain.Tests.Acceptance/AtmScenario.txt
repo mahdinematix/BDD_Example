@@ -1,0 +1,36 @@
+Title: Withdraw Cash From An ATM
+
+As an Account Holder
+I want to withdraw cash from an ATM
+So that I can get money when the bank is closed
+
+Scenario1: Account Has Insufficient Fund
+	Given the account balance is $10
+		And Given The Card Is Valid
+		And Given The Machine Contains Enough Money
+	When The Account Holder Requests 20
+	Then The Atm Should Not Dispense Any Money
+		And The Atm Should Say There Are Insufficient Funds
+		And The Card Should Be Returned
+
+
+Scenario2: Atm Retains The Card
+	Given The Account Balance Is $10
+		And The Card Is Invalid
+		And The Machine Contains Enough Money
+	When The Account Holder Requests $20
+	Then The Atm Should Not Dispense Any Money
+		And The Atm Should Say Card Is Retained
+		And The Card Should Be Retained
+
+
+
+
+Scenario3: Account Holder Can Withdraw Cash From Atm
+	Given The Account Balance Is $20
+		And The Card Is Valid
+		And The Machine Contains Enough Money
+	When The Account Holder Requests $16
+	Then The ATM Should Dispense $16
+		And The Account Balance Should Become $4
+		And The Card Should Returned
